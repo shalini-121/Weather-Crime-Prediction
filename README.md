@@ -9,12 +9,20 @@ Traditional crime management often reacts to past events. By leveraging machine 
 
 Features
 Weather-Crime Correlation Analysis: Investigates the influence of temperature, rainfall, and other weather attributes on crime rates.
+
 Temporal Pattern Recognition: Analyzes how time-based features (hour of day, day of week, month of year) correlate with crime.
+
 XGBoost Predictive Modeling: Utilizes the robust XGBoost algorithm for building a high-performance regression model.
+
 Synthetic Data Generation: Includes a module for generating synthetic crime and weather data, enabling methodological development even without immediate access to real-world datasets.
+
 Feature Engineering: Demonstrates the creation of informative features from raw temporal and weather data.
+
 Model Evaluation: Provides comprehensive evaluation metrics (MSE, R-squared, MAE, Accuracy) to assess model performance.
+
 Feature Importance Analysis: Identifies the key features most influential in the model's predictions.
+
+
 
 Output
 
